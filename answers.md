@@ -19,3 +19,9 @@
    D. Node
 
 9) B. Only the tab or window that contains the current HTML document
+
+10) A. Window
+
+11) C. setTimeout()
+
+12) B. setInterval()
